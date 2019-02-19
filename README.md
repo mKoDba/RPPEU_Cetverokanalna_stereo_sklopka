@@ -4,4 +4,4 @@ Projekt napravljen u sklopu predmeta 'Računalom podržano projektiranje elektro
 
 Nedostaje korisnička dokumentacija uređaja.
 
-Električna shema je napravljena prema već gotovoj slici sheme (u repozitoriju) dobivene od strane asistenata. PDF dokument sadrži proizvodnu dokumentaciju uređaja.
+Električna shema je napravljena prema već gotovoj slici sheme ('audio-stereo-switch.gif') dobivene od strane asistenata. PDF dokument ('Kodba_Mario.pdf') sadrži proizvodnu dokumentaciju uređaja, a Bill of Materials se nalazi u excel dokumentu 'Kodba_Mario.xls'.
